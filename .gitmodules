@@ -1,3 +1,4 @@
 [submodule "articles"]
 	path = articles
-	url = ./.
+	url = .
+	ref = refs/heads/articles
